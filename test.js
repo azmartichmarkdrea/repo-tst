@@ -5,4 +5,7 @@ console.log('colab fork')
 console.log('zez')
 ilyas
 dada
+
+cd
+
 cs
